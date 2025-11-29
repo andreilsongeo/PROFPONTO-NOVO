@@ -1,0 +1,5 @@
+{
+  "name": "PROFponto 2.0.1",
+  "description": "Sistema de Gestão de Ponto offline para professores, com gerenciamento de calendário, horários e geração de relatórios PDF.",
+  "requestFramePermissions": []
+}
